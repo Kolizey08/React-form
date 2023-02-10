@@ -1,0 +1,42 @@
+.form {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.inp {
+    width: 300px;
+    height: 30px;
+    font-size: 18px;
+}
+
+.btn{
+    height: 35px;
+    padding: 0 15px;
+    margin-left: 10px;
+    color: white;
+    background: #0202f9bd;
+    border: 1px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+.blurText {
+    display: flex;
+    justify-content: center;
+    margin-right: 10%;
+    margin-top: 10px;
+    font-size: 16px;
+    color: red;
+    text-shadow: rgb(248, 11, 19) 1px 0 10px;
+}
+
+.sentedText {
+    display: flex;
+    justify-content: center;
+    margin-right: 10%;
+    margin-top: 10px;
+    font-size: 16px;
+    color: green;
+    text-shadow: rgb(17, 255, 0) 1px 0 10px;
+}
